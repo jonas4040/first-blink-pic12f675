@@ -41,6 +41,8 @@
 *.su
 *.idb
 *.pdb
+#debug
+#nbproject
 
 # Kernel Module Compile Results
 *.mod*
