@@ -6,5 +6,5 @@
 CND_BASEDIR=`pwd`
 # default configuration
 CND_ARTIFACT_DIR_default=dist/default/production
-CND_ARTIFACT_NAME_default=pic12f675.X.production.hex
-CND_ARTIFACT_PATH_default=dist/default/production/pic12f675.X.production.hex
+CND_ARTIFACT_NAME_default=PIC12F675P.production.hex
+CND_ARTIFACT_PATH_default=dist/default/production/PIC12F675P.production.hex
